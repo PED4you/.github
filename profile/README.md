@@ -14,6 +14,7 @@
 - [@pryter](https://github.com/pryter) — developed every other part of the frontend for the [PED4YOU Website](https://github.com/PED4you/ped4you-website)
 - [@vikimark](https://github.com/vikimark) — developed the machine learning algorithm for the [election ballot verifier](https://github.com/PED4you/ped4you-cross-detection)
 - [@wasdee](https://github.com/wasdee) — helped us ship the [election ballot verifier](https://github.com/PED4you/ped4you-cross-detection) (thanks again by the way!)
+- [@nakzaa](https://github.com/nakzaa) — contributed some minor ui improvements and fixes
 
 # How can I contribute?
 
